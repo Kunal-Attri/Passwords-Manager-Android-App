@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Passwords Manager</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="showPass">Show Password</string>
+    <string name="hidePass">Hide Password</string>
+
+</resources>

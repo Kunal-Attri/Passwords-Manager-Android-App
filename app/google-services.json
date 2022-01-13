@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "710837124020",
+    "project_id": "passwords-manager-757ad",
+    "storage_bucket": "passwords-manager-757ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710837124020:android:799bb801ad018ff00490e1",
+        "android_client_info": {
+          "package_name": "com.kunalattri.passwordsmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710837124020-jispkigrqijl6tnu0rm8tmg1a16ii7kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kunalattri.passwordsmanager",
+            "certificate_hash": "fc51927c3d3c879cffde995d3969923aa717c1ea"
+          }
+        },
+        {
+          "client_id": "710837124020-8sm20sb5gdub0k3fam786pb7g7uuiv18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgaB_Up9koNMSH0sfmPqACMPamN_8TvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710837124020-8sm20sb5gdub0k3fam786pb7g7uuiv18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
